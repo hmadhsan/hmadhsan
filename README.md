@@ -31,7 +31,8 @@
 <p align="left">
 <a href="https://dev.to/hmadhsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hmadhsan" height="30" width="40" /></a>
 <a href = 'https://www.linkedin.com/in/hammad-hassan-28058a126'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" /></a>
-<a href="https://stackoverflow.com/users/11012240/hammad-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="11012240/hammad-hassan" height="30" width="40" /></a>
+  
+<a href="https://stackoverflow.com/users/11012240/hammad-hassan" target="blank"><img align="center" src="https://toppng.com/uploads/preview/stack-overflow-logo-vector-11573974009fewkdpunrt.jpg" alt="11012240/hammad-hassan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
