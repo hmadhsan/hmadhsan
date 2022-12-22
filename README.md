@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad Hassan </h1>
-<h3 align="center">A passionate Full-Stack Web & Mobile Developer from Frankfurt, Germany.</h3>
+<h3 align="center">A passionate Full-Stack Web & Mobile Developer based in Frankfurt, Germany.</h3>
 
 - 🔭 I’m currently working on **JavaScript and Python Stack**
 
