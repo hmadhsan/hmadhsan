@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Next.js, AWS cloud<br>👯 I’m looking to collaborate on React, React Native<br>🤝 I’m looking for help with AWS<br>🌱 I’m currently learning Python<br>💬 Ask me about JavaScript<br>⚡ Fun fact love to travel and socialize<br>✏️ My Tech Blogs: [![Hashnode](https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png)](https://hashnode.com/@hmadhsan) >
+🔭 I’m currently working on Python, Next.js, AWS cloud<br>👯 I’m looking to collaborate on React, React Native<br>🤝 I’m looking for help with AWS<br>🌱 I’m currently learning Python<br>💬 Ask me about JavaScript
 
 
 ## 🌐 Socials:
