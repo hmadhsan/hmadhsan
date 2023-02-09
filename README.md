@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Next.js, AWS cloud<br>👯 I’m looking to collaborate on React, React Native<br>🤝 I’m looking for help with AWS<br>🌱 I’m currently learning Python<br>💬 Ask me about JavaScript<br>⚡ Fun fact love to travel and socialize<br>✏️ My Tech blogs: <a href='hashnode.com/@hmadhsan' />
+🔭 I’m currently working on Python, Next.js, AWS cloud<br>👯 I’m looking to collaborate on React, React Native<br>🤝 I’m looking for help with AWS<br>🌱 I’m currently learning Python<br>💬 Ask me about JavaScript<br>⚡ Fun fact love to travel and socialize<br>✏️ My Tech Blogs: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-hassan-bajwa-28058a126/) >
 
 
 ## 🌐 Socials:
