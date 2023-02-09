@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Python, Next.js, AWS cloud<br>👯 I’m looking to collaborate on React, React Native<br>🤝 I’m looking for help with AWS <br> 💬 Ask me about JavaScript
 
-## 🌐 Tech Blogs:
+## ✏️ Tech Blogs:
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@hmadhsan)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hmadhsan)
 ## 🌐 Socials:
