@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Hassan </h1>
 <h3 align="center">A passionate Full-Stack Web & Mobile Developer based in Frankfurt, Germany.</h3>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div
+
 
 - 🔭 I’m currently working on **JavaScript and Python Stack**
 
