@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 630" width="980" height="630">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#080c10" />
+    </linearGradient>
+
+    <!-- Subtle Line Divider Gradient -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#30363d" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#21262d" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Border & Background -->
+  <rect x="2" y="2" width="976" height="626" rx="14" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Terminal Window Controls -->
+  <circle cx="28" cy="24" r="5" fill="#ff5f56" />
+  <circle cx="44" cy="24" r="5" fill="#ffbd2e" />
+  <circle cx="60" cy="24" r="5" fill="#27c93f" />
+  <text x="82" y="28" fill="#64748b" font-family="Consolas, 'Courier New', ui-monospace, monospace" font-size="11.5">fastfetch — hmadhsan@github</text>
+
+  <!-- ASCII Art Left Column -->
+  <text x="30" y="80.0" fill="#38bdf8" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">XXA2535hG##99BBBBBB9GS99BBMh932B@@BSS93AS9#&amp;9353</text>
+  <text x="30" y="97.5" fill="#34bcf5" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">XXXA555hGSS##99999B&amp;B#S9&amp;B3ssAG99#GS9B99BB&amp;9M2A2</text>
+  <text x="30" y="115.0" fill="#31bcf3" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">AAX2553HS###999B&amp;&amp;B#3Xss25riAH##S#9BBBB&amp;&amp;&amp;#MGB&amp;&amp;</text>
+  <text x="30" y="132.5" fill="#2dbbf0" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">AAA3MMMH##999&amp;&amp;#hA;.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ir5#9BB##BB#SGHSBBBB</text>
+  <text x="30" y="150.0" fill="#2abbee" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">AA5hHGHS999B9H2&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;;2G999&amp;B#S#B&amp;&amp;&amp;&amp;&amp;</text>
+  <text x="30" y="167.5" fill="#26baeb" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">533hHGG#BBBGs&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;X#@&amp;BB&amp;@&amp;&amp;&amp;&amp;&amp;&amp;</text>
+  <text x="30" y="185.0" fill="#23bae9" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">3hMHGG#9BBBX&#160;&#160;&#160;:rAA3Mh33A:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;#@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;</text>
+  <text x="30" y="202.5" fill="#1fb9e6" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">hMHGS9BBB&amp;9:&#160;i3HHMM322AXAX,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;#@@@@@@@&amp;&amp;&amp;&amp;</text>
+  <text x="30" y="220.0" fill="#1cb9e4" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">MMHG#9BBB&amp;B:.i:r3hs&#160;.:,:iXA,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9@@@@@@@@@@@</text>
+  <text x="30" y="237.5" fill="#18b8e1" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">MHHG#9BBB&amp;@#Ar,.53riXs;rX25A,&#160;&#160;.ii&#160;i@@@@@@@@@@@@</text>
+  <text x="30" y="255.0" fill="#15b8df" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">HHHS#BBB&amp;&amp;&amp;@SMhHGMh3hMHGHh33XiX:s3A9@@@@@@@@@@@9</text>
+  <text x="30" y="272.5" fill="#12b7dc" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">HHGS9BB&amp;&amp;&amp;@&amp;#SHH32253HHHM32X;;XissH@@@@@@@@@@@@&amp;</text>
+  <text x="30" y="290.0" fill="#0eb7da" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">HGGS9B&amp;&amp;&amp;&amp;@@#32r;:,rsis522X;.:;r&#160;r@@@@@@@@@@@@@@</text>
+  <text x="30" y="307.5" fill="#0bb6d7" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">GGS#9B&amp;&amp;&amp;&amp;@@S2:,i2Ai,,.sri,&#160;&#160;,XX&#160;h@@@@@@@@@@@@@@</text>
+  <text x="30" y="325.0" fill="#07b6d5" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">GSS#B&amp;&amp;&amp;&amp;@@hiH:AAssX2A,&#160;&#160;&#160;&#160;&#160;&#160;,2ArB@@@@@@@@@@@@@@</text>
+  <text x="30" y="342.5" fill="#09b3d5" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">SS##B&amp;&amp;&amp;@@@&amp;&amp;@h.rsssr.&#160;&#160;&#160;&#160;&#160;&#160;;XAXs2HG@@@@@@@@@@@@</text>
+  <text x="30" y="360.0" fill="#0fadd7" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">SS#9B&amp;&amp;&amp;&amp;@@@@@@Hs::&#160;&#160;&#160;&#160;&#160;&#160;&#160;:s25A,&#160;&#160;&#160;&#160;.HB@@@@@@@@@</text>
+  <text x="30" y="377.5" fill="#16a8d9" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9B&amp;&amp;&amp;&amp;&amp;@@@@@@@@@S,&#160;&#160;.:iX55i&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.shB@@@@@</text>
+  <text x="30" y="395.0" fill="#1ca2db" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9B&amp;&amp;&amp;&amp;&amp;@@@@@@@@@@@AirsXA;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.2B@@</text>
+  <text x="30" y="412.5" fill="#229ddd" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9B&amp;&amp;&amp;&amp;@@@@@@@@@@&amp;@BsA5r&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;s&amp;</text>
+  <text x="30" y="430.0" fill="#2997df" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9B&amp;&amp;&amp;&amp;@@@@@@@@@@@M&#160;:s&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="447.5" fill="#2f92e1" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9&amp;&amp;&amp;&amp;&amp;&amp;@@@@@@@@@B&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="465.0" fill="#368ce3" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9&amp;&amp;&amp;@@@@@@@@@@@3&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="482.5" fill="#3c87e5" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9&amp;&amp;&amp;@@@@@@@@@@X&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="500.0" fill="#4281e7" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">S##9&amp;&amp;&amp;&amp;@@@@@@@@#&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="517.5" fill="#497ce9" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">SS#9&amp;&amp;&amp;&amp;@@@@@@@3&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="535.0" fill="#4f76eb" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">SSS9B&amp;&amp;&amp;&amp;&amp;&amp;@@@@S&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="552.5" fill="#5671ed" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">GSS#BBBBB&amp;&amp;&amp;@@9&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="570.0" fill="#5c6bef" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">GGS#9BBBB&amp;&amp;@@@,&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+  <text x="30" y="587.5" fill="#6366f1" font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace" font-size="12.2" font-weight="600" xml:space="preserve">GGG#9BBBBB&amp;@@S&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+
+  <!-- Right Info Panel -->
+  <g font-family="Consolas, 'Courier New', ui-monospace, SFMono-Regular, monospace">
+    <!-- Header -->
+    <text x="445" y="78" font-size="14.5" font-weight="bold">
+      <tspan fill="#38bdf8">hmadhsan</tspan><tspan fill="#64748b">@</tspan><tspan fill="#a855f7">github</tspan>
+    </text>
+    <line x1="445" y1="87" x2="940" y2="87" stroke="url(#lineGrad)" stroke-width="1.2" />
+
+    <!-- System & Professional Specs -->
+    <text x="445" y="112" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">OS:</tspan><tspan fill="#334155"> ............................. </tspan><tspan fill="#60a5fa">Windows</tspan><tspan fill="#64748b">, </tspan><tspan fill="#f1f5f9">macOS</tspan>
+    </text>
+
+    <text x="445" y="134" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Focus:</tspan><tspan fill="#334155"> .......................... </tspan><tspan fill="#38bdf8" font-weight="bold">TypeScript</tspan><tspan fill="#64748b">, </tspan><tspan fill="#fbbf24" font-weight="bold">Python</tspan><tspan fill="#64748b">, </tspan><tspan fill="#c084fc" font-weight="bold">AI/ML</tspan>
+    </text>
+
+    <text x="445" y="156" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Location:</tspan><tspan fill="#334155"> ....................... </tspan><tspan fill="#34d399">Germany</tspan>
+    </text>
+
+    <text x="445" y="178" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Role:</tspan><tspan fill="#334155"> ........................... </tspan><tspan fill="#f43f5e" font-weight="bold">Senior Software engineer</tspan>
+    </text>
+
+    <text x="445" y="200" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">IDE:</tspan><tspan fill="#334155"> ............................ </tspan><tspan fill="#fb923c">claude code</tspan><tspan fill="#64748b">, </tspan><tspan fill="#22d3ee">conductor</tspan><tspan fill="#64748b">, </tspan><tspan fill="#818cf8">cursor</tspan>
+    </text>
+
+    <text x="445" y="226" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Languages:</tspan><tspan fill="#334155"> ...................... </tspan><tspan fill="#38bdf8">TypeScript</tspan><tspan fill="#64748b">, </tspan><tspan fill="#fbbf24">Python</tspan>
+    </text>
+
+    <text x="445" y="248" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Spoken:</tspan><tspan fill="#334155"> ......................... </tspan><tspan fill="#f8fafc">English</tspan><tspan fill="#64748b">, </tspan><tspan fill="#f8fafc">Urdu</tspan><tspan fill="#64748b">, </tspan><tspan fill="#f8fafc">German</tspan>
+    </text>
+
+    <text x="445" y="270" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Founder:</tspan><tspan fill="#334155"> ........................ </tspan><tspan fill="#38bdf8" font-weight="bold">callio.dev</tspan><tspan fill="#64748b"> &amp; </tspan><tspan fill="#a855f7" font-weight="bold">organizeai.dev</tspan>
+    </text>
+
+    <!-- Contact Divider -->
+    <text x="445" y="306" fill="#38bdf8" font-size="13" font-weight="bold">─ Contact </text>
+    <line x1="535" y1="302" x2="940" y2="302" stroke="#21262d" stroke-width="1.2" />
+
+    <text x="445" y="330" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Email:</tspan><tspan fill="#334155"> .......................... </tspan><tspan fill="#f87171">hammadhassan616@gmail.com</tspan>
+    </text>
+
+    <text x="445" y="352" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">LinkedIn:</tspan><tspan fill="#334155"> ....................... </tspan><tspan fill="#60a5fa">linkedin.com/in/h-hassan-sde</tspan>
+    </text>
+
+    <text x="445" y="374" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Portfolio:</tspan><tspan fill="#334155"> ...................... </tspan><tspan fill="#34d399">hhassan.xyz</tspan>
+    </text>
+
+    <!-- GitHub Stats Divider -->
+    <text x="445" y="410" fill="#38bdf8" font-size="13" font-weight="bold">─ GitHub Stats </text>
+    <line x1="575" y1="406" x2="940" y2="406" stroke="#21262d" stroke-width="1.2" />
+
+    <text x="445" y="434" font-size="12.5" xml:space="preserve">
+      <tspan fill="#22c55e" font-weight="bold">⚡ 1,335</tspan><tspan fill="#94a3b8"> contributions this year</tspan>
+    </text>
+
+    <text x="445" y="458" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Currently:</tspan><tspan fill="#334155"> ...................... </tspan><tspan fill="#cbd5e1">Building, learning, speaking @ </tspan><tspan fill="#38bdf8">hhassan.xyz/speaking</tspan>
+    </text>
+
+    <text x="445" y="482" font-size="12.5" xml:space="preserve">
+      <tspan fill="#f59e0b">Status:</tspan><tspan fill="#334155"> ......................... </tspan><tspan fill="#22c55e">●</tspan><tspan fill="#4ade80" font-weight="bold"> Open to collaborating</tspan>
+    </text>
+
+    <!-- Fastfetch Terminal Color Palette -->
+    <text x="445" y="542" fill="#64748b" font-size="11" font-weight="bold">─ Palette ───────────────────────────────────────────</text>
+    <rect x="445" y="560" width="30" height="12" rx="3" fill="#1e293b" />
+<rect x="481" y="560" width="30" height="12" rx="3" fill="#ef4444" />
+<rect x="517" y="560" width="30" height="12" rx="3" fill="#22c55e" />
+<rect x="553" y="560" width="30" height="12" rx="3" fill="#eab308" />
+<rect x="589" y="560" width="30" height="12" rx="3" fill="#3b82f6" />
+<rect x="625" y="560" width="30" height="12" rx="3" fill="#a855f7" />
+<rect x="661" y="560" width="30" height="12" rx="3" fill="#06b6d4" />
+<rect x="697" y="560" width="30" height="12" rx="3" fill="#f1f5f9" />
+<rect x="445" y="576" width="30" height="12" rx="3" fill="#475569" />
+<rect x="481" y="576" width="30" height="12" rx="3" fill="#f87171" />
+<rect x="517" y="576" width="30" height="12" rx="3" fill="#4ade80" />
+<rect x="553" y="576" width="30" height="12" rx="3" fill="#fde047" />
+<rect x="589" y="576" width="30" height="12" rx="3" fill="#60a5fa" />
+<rect x="625" y="576" width="30" height="12" rx="3" fill="#c084fc" />
+<rect x="661" y="576" width="30" height="12" rx="3" fill="#22d3ee" />
+<rect x="697" y="576" width="30" height="12" rx="3" fill="#ffffff" />
+  </g>
+</svg>
