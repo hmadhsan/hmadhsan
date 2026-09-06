@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 575" width="980" height="575">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 980 575" width="980" height="575">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -117,4 +117,30 @@
       <tspan fill="#f59e0b">Status:</tspan><tspan fill="#334155"> ......................... </tspan><tspan fill="#22c55e">●</tspan><tspan fill="#4ade80" font-weight="bold"> Open to collaborating</tspan>
     </text>
   </g>
+
+  <!-- Interactive Link Overlays -->
+  <!-- callio.dev -> https://www.callio.dev/ -->
+  <a href="https://www.callio.dev/" xlink:href="https://www.callio.dev/" target="_blank">
+    <rect x="569" y="230" width="56" height="20" fill="#fff" fill-opacity="0.001" cursor="pointer" />
+  </a>
+
+  <!-- organizeai.dev -> http://organizeai.dev/ -->
+  <a href="http://organizeai.dev/" xlink:href="http://organizeai.dev/" target="_blank">
+    <rect x="635" y="230" width="84" height="20" fill="#fff" fill-opacity="0.001" cursor="pointer" />
+  </a>
+
+  <!-- Email -> mailto:hammadhassan616@gmail.com -->
+  <a href="mailto:hammadhassan616@gmail.com" xlink:href="mailto:hammadhassan616@gmail.com">
+    <rect x="563" y="307" width="166" height="20" fill="#fff" fill-opacity="0.001" cursor="pointer" />
+  </a>
+
+  <!-- LinkedIn -> https://www.linkedin.com/in/h-hassan-sde/ -->
+  <a href="https://www.linkedin.com/in/h-hassan-sde/" xlink:href="https://www.linkedin.com/in/h-hassan-sde/" target="_blank">
+    <rect x="570" y="333" width="152" height="20" fill="#fff" fill-opacity="0.001" cursor="pointer" />
+  </a>
+
+  <!-- Portfolio -> https://hhassan.xyz/ -->
+  <a href="https://hhassan.xyz" xlink:href="https://hhassan.xyz" target="_blank">
+    <rect x="565" y="359" width="67" height="20" fill="#fff" fill-opacity="0.001" cursor="pointer" />
+  </a>
 </svg>
