@@ -4,7 +4,7 @@
 XXA2535hG##99BBBBBB9GS99BBMh932B@@BSS93AS9#&9353  hmadhsan@github
 XXXA555hGSS##99999B&B#S9&B3ssAG99#GS9B99BB&9M2A2  ─────────────────────────────────────
 AAX2553HS###999B&&B#3Xss25riAH##S#9BBBB&&&#MGB&&  OS:        Windows, macOS
-AAA3MMMH##999&&#hA;.        ir5#9BB##BB#SGHSBBBB  Focus:     JavaScript, TypeScript & ML
+AAA3MMMH##999&&#hA;.        ir5#9BB##BB#SGHSBBBB  Focus:     TypeScript, Python, AI/ML
 AA5hHGHS999B9H2                ;2G999&B#S#B&&&&&  Location:  Germany
 533hHGG#BBBGs                     X#@&BB&@&&&&&&  Role:      Senior Software engineer
 3hMHGG#9BBBX   :rAA3Mh33A:          #@&&&&&&&&&&  IDE:       claude code, conductor, cursor
