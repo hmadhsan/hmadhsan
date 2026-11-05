@@ -2,8 +2,7 @@
 
   
 # Hi, I'm Hammad Hassan 👋
-### senior software Engineer (product & ai) • tech speaker
-
+### Senior Software Engineer (Product & AI)
 <br />
 
 <img src="terminal-card.svg" alt="Hammad Hassan — Fastfetch Terminal Card" width="100%" />
