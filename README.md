@@ -1,7 +1,7 @@
 <div align="center">
 
   
-# Hi, I'm Hammad Hassan 👋
+# Hi👋
 ### Senior Software Engineer (Product & AI)
 <br />
 
