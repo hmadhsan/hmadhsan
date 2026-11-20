@@ -5,6 +5,8 @@
 ### Senior Software Engineer (Product & AI)
 <br />
 
+I work across product engineering and AI, and speak at conferences about the ideas and engineering behind the products I build.
+
 <p align="center">
   <a href="https://hhassan.site"><img src="https://img.shields.io/badge/Portfolio-hhassan.site-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/h-hassan-sde/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fh--hassan--sde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
